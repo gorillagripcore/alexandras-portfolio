@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/alexandras-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/alexandras-portfolio/static/js/main.cc3ff094.js",
+    "main.css": "/alexandras-portfolio/static/css/main.01dd0fe4.css",
+    "main.js": "/alexandras-portfolio/static/js/main.ae0cede6.js",
     "static/js/453.8767bc00.chunk.js": "/alexandras-portfolio/static/js/453.8767bc00.chunk.js",
-    "static/media/logo.svg": "/alexandras-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Poster241.png": "/alexandras-portfolio/static/media/Poster241.255be4da350ff4175d35.png",
+    "static/media/pfp.jpg": "/alexandras-portfolio/static/media/pfp.87d94788903ae84adf7e.jpg",
+    "static/media/readingnook_web.png": "/alexandras-portfolio/static/media/readingnook_web.1e1a0e854c4d7087f80c.png",
+    "static/media/brazil.jpg": "/alexandras-portfolio/static/media/brazil.131dc56b41ef4be15476.jpg",
+    "static/media/sixtenehrling_da.png": "/alexandras-portfolio/static/media/sixtenehrling_da.ad2fe41496ae97652bff.png",
     "index.html": "/alexandras-portfolio/index.html",
-    "main.f855e6bc.css.map": "/alexandras-portfolio/static/css/main.f855e6bc.css.map",
-    "main.cc3ff094.js.map": "/alexandras-portfolio/static/js/main.cc3ff094.js.map",
+    "main.01dd0fe4.css.map": "/alexandras-portfolio/static/css/main.01dd0fe4.css.map",
+    "main.ae0cede6.js.map": "/alexandras-portfolio/static/js/main.ae0cede6.js.map",
     "453.8767bc00.chunk.js.map": "/alexandras-portfolio/static/js/453.8767bc00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.cc3ff094.js"
+    "static/css/main.01dd0fe4.css",
+    "static/js/main.ae0cede6.js"
   ]
 }
