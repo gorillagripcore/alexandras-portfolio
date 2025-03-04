@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/alexandras-portfolio/static/css/main.2ee29b10.css",
-    "main.js": "/alexandras-portfolio/static/js/main.f24af5a7.js",
-    "static/js/453.8767bc00.chunk.js": "/alexandras-portfolio/static/js/453.8767bc00.chunk.js",
+    "main.css": "/alexandras-portfolio/static/css/main.5485605c.css",
+    "main.js": "/alexandras-portfolio/static/js/main.e24f3390.js",
     "static/media/Poster_2025.png": "/alexandras-portfolio/static/media/Poster_2025.2b905b8d903c0cd12c16.png",
     "static/media/Poster241.png": "/alexandras-portfolio/static/media/Poster241.255be4da350ff4175d35.png",
+    "static/media/pfp_2.jpg": "/alexandras-portfolio/static/media/pfp_2.61ccd9b0b6dc06f3646f.jpg",
     "static/media/booksticker_2.jpg": "/alexandras-portfolio/static/media/booksticker_2.ccd894e1bb38b08afd59.jpg",
     "static/media/readingnook_web.png": "/alexandras-portfolio/static/media/readingnook_web.7a3e4a08cc6519907b61.png",
     "static/media/pfp.jpg": "/alexandras-portfolio/static/media/pfp.87d94788903ae84adf7e.jpg",
     "static/media/flyer.jpg": "/alexandras-portfolio/static/media/flyer.4383b5c968e4670dd36e.jpg",
     "static/media/brazil.jpg": "/alexandras-portfolio/static/media/brazil.131dc56b41ef4be15476.jpg",
     "static/media/sixtenehrling_da.png": "/alexandras-portfolio/static/media/sixtenehrling_da.1c5aec2f1ce7b188e9e1.png",
-    "static/media/theme_randomizer.png": "/alexandras-portfolio/static/media/theme_randomizer.2b361a7c1f71f91c45d9.png",
+    "static/media/theme_randomizer.png": "/alexandras-portfolio/static/media/theme_randomizer.f52a7cc45710a449f952.png",
     "index.html": "/alexandras-portfolio/index.html",
-    "main.2ee29b10.css.map": "/alexandras-portfolio/static/css/main.2ee29b10.css.map",
-    "main.f24af5a7.js.map": "/alexandras-portfolio/static/js/main.f24af5a7.js.map",
-    "453.8767bc00.chunk.js.map": "/alexandras-portfolio/static/js/453.8767bc00.chunk.js.map"
+    "main.5485605c.css.map": "/alexandras-portfolio/static/css/main.5485605c.css.map",
+    "main.e24f3390.js.map": "/alexandras-portfolio/static/js/main.e24f3390.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ee29b10.css",
-    "static/js/main.f24af5a7.js"
+    "static/css/main.5485605c.css",
+    "static/js/main.e24f3390.js"
   ]
 }
